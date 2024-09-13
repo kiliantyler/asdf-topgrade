@@ -2,7 +2,7 @@
 
 set -euo pipefail
 
-GH_REPO="https://github.com/r-darwish/topgrade"
+GH_REPO="https://github.com/topgrade-rs/topgrade"
 
 fail() {
   echo -e "asdf-topgrade: $*"
